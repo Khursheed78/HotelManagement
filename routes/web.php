@@ -61,7 +61,12 @@ Route::get('/contactus',[HomeController::class,'contactus'])->name('home.contact
 // Route::get('/abouts',[HomeController::class,'abouts'])->name('home.abouts');
 // Route::get('/contactus',[HomeController::class,'contactus'])->name('home.contactus');
 // Route::get('/contactus',[HomeController::class,'contactus'])->name('home.contactus');
-
+// For Route
+// Route::get('/ourgallery',[HomeController::class,'ourgallery'])->name('home.ourgallery');
+// Route::get('/ourroom',[HomeController::class,'ourroom'])->name('home.ourroom');
+// Route::get('/abouts',[HomeController::class,'abouts'])->name('home.abouts');
+// Route::get('/contactus',[HomeController::class,'contactus'])->name('home.contactus');
+// Route::get('/contactus',[HomeController::class,'contactus'])->name('home.contactus');
 
 
 
